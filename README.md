@@ -9,7 +9,7 @@
 ## Tasks:
 
 ### 1. Data Exploration and Preprocessing:
-####•	Load the dataset and conduct basic data exploration (summary statistics, missing values, data types).
+#### •	Load the dataset and conduct basic data exploration (summary statistics, missing values, data types).
 #### •	Handle missing values as per the best practices (imputation, removal, etc.).
 #### •	Apply scaling techniques to numerical features:
 #### •	Standard Scaling
